@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aquc.CountToDo", "Aquc.CountToDo\Aquc.CountToDo.csproj", "{D1A32F71-1942-4E48-835C-E1E23672BEF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aquc.CountToDo.Service", "Aquc.CountToDo.Service\Aquc.CountToDo.Service.csproj", "{AB9DC733-3BA3-4FE1-AD65-7FFD0EC29B6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aquc.Configuration", "..\Aquc.Configuration\Aquc.Configuration\Aquc.Configuration.csproj", "{FDA318D9-C277-479E-8E1C-3EBF6C80A1BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aquc.Stackbricks.Interop", "..\Aquc.AquaUpdater\Aquc.Stackbricks.Interop\Aquc.Stackbricks.Interop.csproj", "{FAE37897-32A6-4502-A352-EEA59C8DC148}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aquc.Stackbricks.DataClass", "..\Aquc.AquaUpdater\Aquc.Stackbricks.DataClass\Aquc.Stackbricks.DataClass.csproj", "{31262E65-D948-4719-8899-F573DB93090F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A32F71-1942-4E48-835C-E1E23672BEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A32F71-1942-4E48-835C-E1E23672BEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A32F71-1942-4E48-835C-E1E23672BEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A32F71-1942-4E48-835C-E1E23672BEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9DC733-3BA3-4FE1-AD65-7FFD0EC29B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9DC733-3BA3-4FE1-AD65-7FFD0EC29B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9DC733-3BA3-4FE1-AD65-7FFD0EC29B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9DC733-3BA3-4FE1-AD65-7FFD0EC29B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA318D9-C277-479E-8E1C-3EBF6C80A1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA318D9-C277-479E-8E1C-3EBF6C80A1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA318D9-C277-479E-8E1C-3EBF6C80A1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA318D9-C277-479E-8E1C-3EBF6C80A1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE37897-32A6-4502-A352-EEA59C8DC148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE37897-32A6-4502-A352-EEA59C8DC148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE37897-32A6-4502-A352-EEA59C8DC148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE37897-32A6-4502-A352-EEA59C8DC148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31262E65-D948-4719-8899-F573DB93090F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31262E65-D948-4719-8899-F573DB93090F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31262E65-D948-4719-8899-F573DB93090F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31262E65-D948-4719-8899-F573DB93090F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2199D705-8EFD-45D5-82A8-3F4F8F3B8E7C}
+	EndGlobalSection
+EndGlobal
